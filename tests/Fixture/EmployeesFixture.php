@@ -48,11 +48,11 @@ class EmployeesFixture extends TestFixture
                 'id' => 1,
                 'first_name' => 'Lorem ipsum dolor sit amet',
                 'last_name' => 'Lorem ipsum dolor sit amet',
-                'birth_date' => '2018-06-17',
+                'birth_date' => '2018-06-23',
                 'address' => 'Lorem ipsum dolor sit amet',
                 'telephone_number' => 'Lorem ipsum ',
                 'email' => 'Lorem ipsum dolor sit amet',
-                'date_joined' => '2018-06-17',
+                'date_joined' => '2018-06-23',
                 'job_id' => 1
             ],
         ];
